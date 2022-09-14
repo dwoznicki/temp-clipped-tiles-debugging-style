@@ -1,0 +1,13 @@
+{
+  "options": {
+    "paths": {
+      "fonts": "fonts",
+      "styles": "styles"
+    }
+  },
+  "styles": {
+    "ntk": {
+      "style": "ntk/style.json"
+    }
+  }
+}
